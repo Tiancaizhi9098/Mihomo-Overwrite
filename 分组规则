@@ -337,7 +337,7 @@ proxy-groups:
     icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/SSID.png
     type: relay
     proxies:
-      - 手动切换
+      - 自动选择
       - 落地节点
 
 rule-providers:
