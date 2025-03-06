@@ -426,7 +426,7 @@ rule-providers:
     format: text
     type: http
   AI:
-    url: https://raw.githubusercontent.com/Tiancaizhi9098/Mihomo-Rule/refs/heads/main/Ai.list?token=GHSAT0AAAAAAC45FBCDFAJRPGTHX55D5YWWZ4GGWCQ
+    url: https://raw.githubusercontent.com/Tiancaizhi9098/Mihomo-Rule/refs/heads/main/Ai.list
     path: ./ruleset/AI.list
     behavior: classical
     interval: 86400
